@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/></a>
 
 
-# Useable Stack
+# Usable Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/jQuery-007396?style=flat-square&logo=jQuery&logoColor=white"/></a>
