@@ -10,9 +10,9 @@
 # My Study
 <a href="https://quixotic-kitchen-4ea.notion.site/SPRING-0c0de8566cc94befb4fb022fedbe6ce4"><img src="https://img.shields.io/badge/Spring 공부-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
 
-<a href="https://www.notion.so/Clean-Code-dce3c89e742a4cbcaa807a63a3e05afa"><img src="https://img.shields.io/badge/클린코드 공부-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
+<a href="https://quixotic-kitchen-4ea.notion.site/Clean-Code-dce3c89e742a4cbcaa807a63a3e05afa"><img src="https://img.shields.io/badge/클린코드 공부-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
 
-<a href="https://www.notion.so/PHP-986a98f27f2f4887a87407ef244b21ab"><img src="https://img.shields.io/badge/PHP 공부-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
+<a href="https://quixotic-kitchen-4ea.notion.site/PHP-986a98f27f2f4887a87407ef244b21ab"><img src="https://img.shields.io/badge/PHP 공부-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
 
 
 
