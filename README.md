@@ -8,7 +8,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsg020302)](https://solved.ac/lsg020302)
 
 # My Study
-<a href="https://www.notion.so/SPRING-0c0de8566cc94befb4fb022fedbe6ce4"><img src="https://img.shields.io/badge/Spring 공부-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
+<a href="https://quixotic-kitchen-4ea.notion.site/SPRING-0c0de8566cc94befb4fb022fedbe6ce4"><img src="https://img.shields.io/badge/Spring 공부-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
 
 <a href="https://www.notion.so/Clean-Code-dce3c89e742a4cbcaa807a63a3e05afa"><img src="https://img.shields.io/badge/클린코드 공부-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
 
