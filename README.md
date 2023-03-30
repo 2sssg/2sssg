@@ -3,13 +3,9 @@
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2sssg&show_icons=true&theme={theme})](https://github.com/2sssg/github-readme-stats)
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsg020302)](https://solved.ac/lsg020302)
-<div>
-
-
 <span><img src="http://mazandi.herokuapp.com/api?handle=lsg020302&theme=warm"/></span>
-
-</div>
 
 # My Study
 <a href="https://quixotic-kitchen-4ea.notion.site/SPRING-0c0de8566cc94befb4fb022fedbe6ce4"><img src="https://img.shields.io/badge/Spring 공부-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
