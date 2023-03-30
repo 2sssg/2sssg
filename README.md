@@ -15,8 +15,47 @@
 
 <a href="https://quixotic-kitchen-4ea.notion.site/PHP-986a98f27f2f4887a87407ef244b21ab"><img src="https://img.shields.io/badge/PHP 공부-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
 
-# Experience
-<img src="https://img.shields.io/badge/42-000000?style=flat-square&logo=42&logoColor=white"/></a> 
+<h3>🙋🏻‍♂️ Experience</h3>
+  <table>
+    <tr align="center">
+      <td> <b>(주)비틀웍스 근무</b> </td>
+      <td> 2021.09 ~ 2022.10 </td>
+      <td> <a href="https://bitlworks.com/">비틀웍스</a> </td>
+  </table>
+  <br>
+  
+  <h3>📚 Education</h3>
+  <table>
+    <tr align="center">
+      <td> <b> 42서울 </b> </td>
+      <td> 2022.08 ~ 2023.03 </td>
+      <td> <a href="https://42seoul.kr/seoul42/main/view"> 42서울 홈페이지 </a>
+    <tr align="center">
+      <td> <b>소프트웨어학과</b> </td>
+      <td> 2018.03 ~ 2024.02 </td>
+      <td> <b>재학</b> </td>
+      <td> <a href="http://www.hangkong.ac.kr/web/index.do">한국항공대학교</a>
+    </tr>
+  </table>
+  <br>
+
+  <h3>🏆 Awards</h3>
+  <table style="text-align: center;">
+    <tr align="center">
+      <td> <b>산학 협력 프로젝트</b> </td>
+      <td> 2022.03.07 </td>
+      <td> <b>총장상</b> </td>
+    </tr><tr align="center">
+      <td> <b>제 2회 한국항공대학교 프로그래밍 경진대회</b> </td>
+      <td> 2021.11.06 </td>
+      <td> <b>최우수상</b> </td>
+      <td> <a href="https://www.kaupc2022.com/">KAUPC 2022</a> </td>
+    </tr><tr align="center">
+      <td> <b>소프트웨어 중심대학 교내 해커톤</b> </td>
+      <td> 2022.05.16 </td>
+      <td> <b>3위</b> </td>
+    </tr>
+  </table>
 
 
 # Main Stack
