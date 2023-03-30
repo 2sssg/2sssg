@@ -15,7 +15,8 @@
 
 <a href="https://quixotic-kitchen-4ea.notion.site/PHP-986a98f27f2f4887a87407ef244b21ab"><img src="https://img.shields.io/badge/PHP 공부-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
 
-
+# Experience
+<img src="https://img.shields.io/badge/42-000000?style=flat-square&logo=42&logoColor=white"/></a> 
 
 
 # Main Stack
