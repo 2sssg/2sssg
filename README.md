@@ -54,6 +54,11 @@
       <td> 2022.05.16 </td>
       <td> <b>3위</b> </td>
     </tr>
+    </tr><tr align="center">
+      <td> <b>소프트웨어 중심대학 교내 해커톤</b> </td>
+      <td> 2023.05.07 </td>
+      <td> <b>1위</b> </td>
+    </tr>
   </table>
 
 
