@@ -59,6 +59,16 @@
       <td> 2023.05.07 </td>
       <td> <b>1위</b> </td>
     </tr>
+    </tr><tr align="center">
+      <td> <b>ict 메이커톤 </b> </td>
+      <td> 2023.06.12 </td>
+      <td> <b>3위</b> </td>
+    </tr>
+    </tr><tr align="center">
+      <td> <b>제 3회 한국항공대학교 프로그래밍 경진대회</b> </td>
+      <td> 2023.07.29 </td>
+      <td> <b>1위</b> </td>
+    </tr>
   </table>
 
 
