@@ -22,6 +22,13 @@
       <td> <a href="https://bitlworks.com/">비틀웍스</a> </td>
   </table>
   <br>
+  <table>
+    <tr align="center">
+      <td> <b>한화시스템 ICT부문 근무</b> </td>
+      <td> 2023.12 ~  </td>
+      <td> <a href="https://www.hanwhasystems.com/kr/index.do/">한화시스템</a> </td>
+  </table>
+  <br>
   
   <h3>📚 Education</h3>
   <table>
@@ -32,7 +39,7 @@
     <tr align="center">
       <td> <b>소프트웨어학과</b> </td>
       <td> 2018.03 ~ 2024.02 </td>
-      <td> <b>재학</b> </td>
+      <td> <b>졸업</b> </td>
       <td> <a href="http://www.hangkong.ac.kr/web/index.do">한국항공대학교</a>
     </tr>
   </table>
@@ -54,20 +61,25 @@
       <td> 2022.05.16 </td>
       <td> <b>3위</b> </td>
     </tr>
-    </tr><tr align="center">
+    <tr align="center">
       <td> <b>소프트웨어 중심대학 교내 해커톤</b> </td>
       <td> 2023.05.07 </td>
       <td> <b>1위</b> </td>
     </tr>
-    </tr><tr align="center">
+    <tr align="center">
       <td> <b>ict 메이커톤 </b> </td>
       <td> 2023.06.12 </td>
       <td> <b>3위</b> </td>
     </tr>
-    </tr><tr align="center">
+    <tr align="center">
       <td> <b>제 3회 한국항공대학교 프로그래밍 경진대회</b> </td>
       <td> 2023.07.29 </td>
       <td> <b>1위</b> </td>
+    </tr>
+    <tr align="center">
+      <td> <b>ICT 융합 프로젝트 경진대회</b> </td>
+      <td> 2023.12.27 </td>
+      <td> <b>은상</b> </td>
     </tr>
   </table>
 
