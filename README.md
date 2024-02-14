@@ -20,16 +20,12 @@
       <td> <b>(주)비틀웍스 근무</b> </td>
       <td> 2021.09 ~ 2022.10 </td>
       <td> <a href="https://bitlworks.com/">비틀웍스</a> </td>
-  </table>
-  <br>
-  <table>
-    <tr align="center">
+      <tr align="center">
       <td> <b>한화시스템 ICT부문 근무</b> </td>
       <td> 2023.12 ~  </td>
       <td> <a href="https://www.hanwhasystems.com/kr/index.do/">한화시스템</a> </td>
   </table>
-  <br>
-  
+
   <h3>📚 Education</h3>
   <table>
     <tr align="center">
